@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632285706733",
+    "project_id": "smart-india-heckathon",
+    "storage_bucket": "smart-india-heckathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632285706733:android:ddf8263a8c3db9fe0d0fe4",
+        "android_client_info": {
+          "package_name": "com.example.sih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbClg1Xrz3F3MyK766DcAZ0pIv8PBLewk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
